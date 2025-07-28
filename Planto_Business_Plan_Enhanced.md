@@ -216,8 +216,46 @@ Planto maintains a unique competitive position in Hong Kong with no direct compe
 **Recommended Profiles:**
 - Former senior executives from HSBC, Standard Chartered, Bank of East Asia
 - Ex-regulators from HKMA with deep policy knowledge
-- Technology leaders from successful fintech exits
+- Technology leaders from successful fintech exits (see examples below)
 - Insurance industry veterans (for sector expansion)
+
+**Technology Leaders from Successful Fintech Exits:**
+
+**Damir Ćuća - Founder & CEO, Basiq (Acquired by Cuscal, 2023)**
+- Successfully led Basiq, Australia's leading open banking platform, through acquisition by Cuscal
+- 2x successful exits with deep expertise in financial data and payments convergence
+- Strong advocate for "Smart payments" revolution combining data and payment services
+- Potential advisor for Planto's open finance strategy and exit positioning
+
+**Sebastian Kreis - Co-Founder & CEO, Xepelin (Valued $1B+)**
+- Led one of Latin America's largest fintech fundraising rounds ($111M Series B)
+- Expert in AI-first banking and automated financial decision-making
+- Strong track record in B2B fintech scaling across multiple markets (Chile, Mexico)
+- Relevant experience in SME financial services and regional expansion
+
+**Joe Proto - Former EVP, Mastercard & Serial Fintech Entrepreneur**
+- 40+ years in fintech with successful exits including REMITCO (acquired by First Data/Fiserv)
+- Currently advising multiple fintech companies post-Mastercard career
+- Deep expertise in B2B payments, digital transformation, and regulatory compliance
+- Proven track record in scaling fintech companies to successful exits
+
+**Rob Rooney - Former Global Head of Technology, Morgan Stanley & CEO, HyperJar**
+- Led major technology transformations at tier-1 investment bank
+- Successfully transitioned from traditional finance to fintech leadership
+- Expertise in digital wallet technology and consumer fintech products
+- Strong background in enterprise-scale technology architecture and team building
+
+**James Barrese - Former CTO, Chime (Pre-IPO Fintech Valued $25B)**
+- Led technology at one of the world's largest digital banks
+- Experience scaling fintech infrastructure to serve millions of customers
+- Deep expertise in consumer fintech, regulatory compliance, and public market readiness
+- Currently at Intuit, bringing fintech expertise to broader financial services
+
+These technology leaders represent successful navigation of fintech exits across different segments (B2B, B2C, infrastructure, payments) and could provide valuable strategic insights for Planto's exit planning, particularly around:
+- Technology architecture for scale
+- Regulatory compliance in multiple jurisdictions  
+- Positioning for strategic vs. financial buyers
+- Post-acquisition integration strategies
 
 **Target Budget**: USD $150,000-200,000 annually for 3-5 advisory positions
 
