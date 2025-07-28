@@ -175,10 +175,99 @@ Planto maintains a unique competitive position in Hong Kong with no direct compe
 - **Market Driver**: Virtual banks capturing 68% of SME lending market (vs. 4% traditional banks)
 - **Value Proposition**: Help traditional banks modernize and compete
 
-**3. Insurance Sector Expansion**
-- **Target**: AIA and other major insurers
-- **Regulatory Enabler**: Open Finance expansion will allow insurance companies to access financial data
-- **Market Size**: Significantly larger than banking sector
+**3. Insurance Sector Expansion & Strategic Exit Opportunity**
+
+**Market Context & Timing:**
+- **Hong Kong**: Open finance not yet legalized, creating regulatory barriers for direct financial data access
+- **UAE/Dubai**: Open banking framework operational since 2022, enabling immediate market entry
+- **Australia**: Consumer Data Right (CDR) includes insurance sector expansion roadmap
+- **Singapore**: Account Information Service Provider (AISP) licenses available for insurance integration
+
+**Primary Strategic Targets:**
+
+**AIA Group (Asia's Largest Insurer - $180B Market Cap)**
+- **Acquisition Rationale**: 
+  - Seeking fintech capabilities to enhance customer engagement and retention
+  - Strong balance sheet ($50B+ assets) for strategic acquisitions
+  - Active fintech investment strategy (AIA Accelerator program)
+- **Strategic Fit**: Planto's customer intelligence platform could enhance AIA's underwriting accuracy by 15-25%
+- **Valuation Multiple**: Insurance companies typically pay 8-12x revenue for fintech acquisitions vs. 4-6x for traditional buyers
+- **Geographic Synergy**: AIA operates in 18 markets where Planto could expand
+
+**Secondary Targets:**
+
+**Prudential plc ($35B Market Cap)**
+- **M&A Activity**: Acquired Assurance IQ for $2.35B (2019), showing appetite for fintech acquisitions
+- **Strategic Need**: Digital transformation across Asian markets
+- **Open Finance Opportunity**: Early mover advantage in markets with emerging open finance regulations
+
+**Great Eastern Holdings ($13B Market Cap)**
+- **Regional Focus**: Southeast Asia alignment with Planto's expansion strategy
+- **Digital Gap**: Traditional insurer needing modern customer intelligence capabilities
+- **Acquisition Size**: More suitable for Planto's current scale ($50-200M acquisition range)
+
+**Use Cases & Revenue Expansion:**
+
+**1. Enhanced Underwriting (Immediate Revenue: $5-10M annually)**
+- Real-time financial health scoring for life insurance applications
+- Fraud detection through spending pattern analysis
+- Dynamic pricing based on financial behavior insights
+
+**2. Wealth-Insurance Product Integration ($15-25M revenue potential)**
+- Investment-linked insurance products with Planto's portfolio analytics
+- Retirement planning combining insurance and investment insights
+- Cross-selling optimization through customer financial profiles
+
+**3. Claims Processing Automation ($3-8M cost savings)**
+- Automated income verification for disability claims
+- Expense pattern analysis for health insurance claims
+- Predictive modeling for claim likelihood
+
+**Market Size Analysis:**
+
+**Hong Kong Insurance Market:**
+- **Total Premiums**: $67B annually (vs. $12B banking sector revenue)
+- **Digital Penetration**: <15% (massive opportunity)
+- **Regulatory Timeline**: Open finance expected 2026-2027
+
+**UAE Insurance Market:**
+- **Total Premiums**: $12B annually
+- **Open Banking Integration**: Available now
+- **Growth Rate**: 8-12% annually (vs. 2-4% banking)
+
+**Dubai-First Strategy Rationale:**
+
+**Immediate Market Entry Advantages:**
+- **DIFC FinTech Hive**: Regulatory sandbox for insurance-fintech integration
+- **Emirates NBD Partnership**: Existing relationship could facilitate insurance sector introductions
+- **Regulatory Clarity**: Clear framework for data sharing with insurance companies
+- **Market Receptivity**: High adoption of insurtech solutions (>40% vs. 15% in Hong Kong)
+
+**Revenue Model Expansion:**
+- **SaaS Licensing**: $50K-200K per insurer annually
+- **Transaction Fees**: 0.1-0.3% of premiums processed through platform
+- **Data Insights**: $10-50K per custom analytics report
+- **API Access**: Usage-based pricing for real-time financial data
+
+**Exit Strategy Enhancement:**
+
+**Acquisition Premium Justification:**
+- Insurance companies pay higher multiples (8-12x revenue vs. 4-6x banks)
+- Larger addressable market increases strategic value
+- Cross-sector synergies command premium valuations
+- Regulatory compliance expertise becomes more valuable
+
+**Strategic Acquirer Profile:**
+- **AIA**: Most likely acquirer given size, strategy, and fintech focus
+- **Acquisition Timeline**: 2026-2028 optimal window (post-open finance legalization)
+- **Valuation Range**: $200M-500M based on insurance sector multiples
+- **Strategic Rationale**: "Buy vs. build" for customer intelligence platform
+
+**Risk Mitigation:**
+- **Regulatory Risk**: Dubai-first approach provides proof of concept
+- **Market Risk**: Insurance sector less cyclical than banking
+- **Competition Risk**: First-mover advantage in insurance-fintech integration
+- **Technology Risk**: Existing platform architecture adaptable to insurance use cases
 
 **4. ESG Revenue Monetization**
 - **Current State**: ESG platform exists but generates no revenue
