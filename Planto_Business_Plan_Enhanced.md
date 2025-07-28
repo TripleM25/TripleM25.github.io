@@ -90,7 +90,7 @@ Based on comprehensive market research, Taiwan's fintech landscape presents both
 
 #### Key Taiwan Competitors & Similar Platforms:
 
-**1. Alpha Robo-Advisor (阿爾發機器人理財)**
+**1. Alpha Robo-Advisor**
 - **Founded**: 2017
 - **Services**: AI-powered robo-advisory, portfolio management
 - **Key Features**: Similar to Wealth 360 with automated investment advice
@@ -103,7 +103,7 @@ Based on comprehensive market research, Taiwan's fintech landscape presents both
 - **Competitive Advantage**: Massive user base through LINE ecosystem
 - **Threat Level**: Medium - focuses more on consumer banking
 
-**3. Next Bank (將來銀行)**
+**3. Next Bank**
 - **Services**: Pure digital bank with investment services
 - **Key Features**: AI-driven financial services, digital-first approach
 - **Market Position**: Growing pure-play digital bank
